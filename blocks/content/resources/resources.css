@@ -1,0 +1,11 @@
+.resources {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto 0;
+  padding-top: 100px;
+  align-items: center;
+}
+
+
+
